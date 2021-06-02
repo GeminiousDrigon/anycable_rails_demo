@@ -12,6 +12,7 @@ This repository contains the code for AnyCable Rails demo application and its di
 
 ## Installation
 
+
 This app has a Docker-first configuration based one the [Ruby on Whales post](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development).
 
 You need:
